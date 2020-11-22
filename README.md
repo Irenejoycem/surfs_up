@@ -25,7 +25,7 @@ It seems that the weather in Oahu on June and December are similar and would be 
 
 In order to really research if it is a good business idea to open up a surf shop in Hawaii based on weather, one would have to also consider looking at how often it rains in those months. Afterall, surfing in the rain would dampen any surfer's mood to surf. 
 
-In general, surf season is best in the fall/winter months and based on the information from what I've found in analyzing the summary of temperatures and rain, business will be consistent all year long as the average downpout in June is 0.14 and December is 0.22
+In general, surf season is best in the fall/winter months and based on the information from what I've found in analyzing the summary of temperatures and rain, business will be consistent all year long as the average downpour in June is 0.14 and December is 0.22
 
 I ran the following queries in order to measure the amount of rain pour in June and December.
 
